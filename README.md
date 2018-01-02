@@ -1,2 +1,3 @@
-# 888888
-厉害
+class Dome{
+  println
+}
